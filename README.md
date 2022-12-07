@@ -7,7 +7,7 @@ A Authenticator site made with NextJS, Typescript and some libraries. With this,
 
 On windows
 
-( enter the root folder of the project and run these commands)
+( enter the root folder of the project and run these commands )
 - 1: npm i
 - 2: npm run dev
 
