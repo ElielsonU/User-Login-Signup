@@ -15,12 +15,16 @@ a {
   box-sizing: border-box;
 }
 
+button {
+  color: #0e0e0e;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: black;
+    color: #ffffff;
+    background: #0e0e0e;
   }
 }
